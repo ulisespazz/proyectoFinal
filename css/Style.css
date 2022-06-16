@@ -1,0 +1,37 @@
+.botones .btn1{
+    margin-top: 10px; 
+}
+.divProductos{
+    margin-bottom: 20px;
+}
+.navbar.navbar-expand-lg.bg-light{
+    padding: 0%;
+}
+
+.container-fluid{
+    background-color: #AD1D24;
+}
+a.navbar-brand{
+    color: #fff;
+    font-family:Arial, Helvetica, sans-serif;
+}
+h3{
+    padding-top: 10px;
+}
+footer{
+    background-color:#AD1D24;
+    padding: 0.625em;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+}
+footer h4{
+    font-family:Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    font-weight: 300;
+    text-align: center;
+}
+.Copyright{
+    text-align: center;
+    color: #fff;
+}

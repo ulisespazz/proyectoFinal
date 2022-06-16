@@ -1,0 +1,100 @@
+[
+    [
+        {
+            "id" : 1,
+            "producto" : "Agua",
+            "tipoProducto" : "Bebida",
+            "precio" : "60"
+        },
+        {
+            "id" : 2,
+            "producto" : "CocaCola",
+            "tipoProducto" : "Bebida",
+            "precio" : "130"
+        },
+        {
+            "id" : 3,
+            "producto" : "Pepsi",
+            "tipoProducto" : "Bebida",
+            "precio" : "130"
+        },{
+            "id" : 4,
+            "producto" : "7up",
+            "tipoProducto" : "Bebida",
+            "precio" : "120"
+        },
+        {
+            "id" : 5,
+            "producto" : "Mirinda",
+            "tipoProducto" : "Bebida",
+            "precio" : "110"
+        },
+        {
+            "id" : 6,
+            "producto" : "Speed",
+            "tipoProducto" : "Bebida",
+            "precio" : "150"
+        },
+        {
+            "id" : 7,
+            "producto" : "Gomitas",
+            "tipoProducto" : "Golosinas",
+            "precio" : "60"
+        },
+        {
+            "id" : 8,
+            "producto" : "Caramelos",
+            "tipoProducto" : "Golosinas",
+            "precio" : "60"
+        },
+        {
+            "id" : 9,
+            "producto" : "Alfajor",
+            "tipoProducto" : "Golosinas",
+            "precio" : "100"
+        },
+        {
+            "id" : 10,
+            "producto" : "Chupetin",
+            "tipoProducto" : "Golosinas",
+            "precio" : "40"
+        },
+        {
+            "id" : 11,
+            "producto" : "Chicle",
+            "tipoProducto" : "Golosinas",
+            "precio" : "60"
+        },
+        {
+            "id":12,
+            "producto" : "PapasLays",
+            "tipoProducto" : "Snacks",
+            "precio" : "100"
+        },
+        {
+            "id":13,
+            "producto" : "Doritos",
+            "tipoProducto" : "Snacks",
+            "precio" : "120"
+        },
+        {
+            "id":14,
+            "producto" : "3D",
+            "tipoProducto" : "Snacks",
+            "precio" : "100"
+        },
+        {
+            "id":15,
+            "producto" : "Cheetos",
+            "tipoProducto" : "Snacks",
+            "precio" : "110"
+        },
+        {
+            "id":16,
+            "producto" : "Pringles",
+            "tipoProducto" : "Snacks",
+            "precio" : "400"
+        }
+
+    ]
+]
